@@ -1,7 +1,7 @@
 # Samsung Innovation Campus
 `Выполнения заданий вступительного теста Samsung Innovation Campus`
 ## backpack.py - Задание №8
-### Исходный код:
+#### Исходный код:
 ```
 class Item:
     def __init__(self, name, weight):
